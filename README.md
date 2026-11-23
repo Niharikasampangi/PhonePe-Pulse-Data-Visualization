@@ -46,6 +46,12 @@ The project contains six prepared datasets:
 - KPI cards for total transaction amount, transaction count, registered users, and states.
 - Interactive filters for year, quarter, state, transaction type, and brand.
 
+## 🌐 Live Interactive Dashboard
+
+Explore the interactive PhonePe Pulse dashboard here:
+
+**[View PhonePe Pulse Dashboard](https://public.tableau.com/shared/SZNQJH62R?:display_count=n&:origin=viz_share_link)**
+
 ## 📸 Dashboard Screenshots
 The dashboard screenshots are uploaded in this repository. They showcase the interactive visualizations and analytical results.
 
