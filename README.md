@@ -71,8 +71,8 @@ This project demonstrates how data visualization can be used to explore India's 
 - Integrate real-time payment analytics.
 
 ## 👩‍💻 Project Files
-- `PhonePe_Pulse_Prepared.xlsx` – Prepared dataset.
-- `PhonePe_Dashboard.twbx` – Tableau packaged workbook.
+- `PhonePe_Pulse_Tableau_Ready.xlsx` – Prepared dataset.
+- `PhonePe dashboard.twbx` – Tableau packaged workbook.
 - Dashboard screenshots – Visual representation of the project.
 
 ---
